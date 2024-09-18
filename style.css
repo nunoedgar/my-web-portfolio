@@ -438,10 +438,10 @@ footer p {
   bottom: 1rem;
   right: 1rem;
   padding: 1rem 2rem;
-  background-color: #333;
+  background-color: #ffffff;
   color: white;
   border: none;
-  border-radius: 5px;
+  border-radius: 50%;
   cursor: pointer;
   font-size: 1rem;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
